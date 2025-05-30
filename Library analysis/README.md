@@ -16,4 +16,5 @@ Not all projects here are perfect - some datasets contained logical inconsistenc
 It was technically clean in terms of data types, formatting, and missing values. However, upon closer inspection, some records lacked logical consistency. For example it looked like some users borrowed books before their registration date (for many records). These issues made the dataset a great practice ground for data validation rather than standard exploratory analysis. As a result, the project primarily focused on SQL practice and anomaly detection, rather than deriving actionable insights.
 
 **Project file**: `sql_library_analysis.sql`
+**Project raw data**: 'Library data' folder
 
